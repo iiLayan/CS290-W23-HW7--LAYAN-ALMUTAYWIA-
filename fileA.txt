@@ -1,3 +1,4 @@
 feature 1 # add feature 1
 feature 1 with 1 bug  # feature 1 enhancement
 #merg branch feature 1
+feature 1 with bug fix # Merge branch ‘bugfix’
