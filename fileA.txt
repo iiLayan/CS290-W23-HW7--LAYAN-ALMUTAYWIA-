@@ -1,2 +1,3 @@
-# add fileA.txt
-feature 1 with 1 feature 2 # add feature 2 
+feature 1 # add feature 1
+feature 1 with 1 bug  # feature 1 enhancement
+feature 1 with 1 bug feature 2 # add feature 2
